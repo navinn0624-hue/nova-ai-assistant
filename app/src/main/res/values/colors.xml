@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#080B14</color>
+    <color name="cyan_neon">#00F0FF</color>
+    <color name="purple_neon">#8B5CF6</color>
+    <color name="card_dark">#121829</color>
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+</resources>
